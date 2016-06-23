@@ -1,0 +1,31 @@
+[2016-06-17 19:17:18.283] [ ERROR ] Error opening TM file!
+[2016-06-17 19:17:19.080] [ ERROR ] Option specified in XML does not exist: name="PatchRetries" value="3"
+[2016-06-17 19:17:19.081] [ ERROR ] Option specified in XML does not exist: name="DIPRetries" value="10"
+[2016-06-17 19:17:19.081] [ ERROR ] Option specified in XML does not exist: name="CloudSaveEnabled" value="1"
+[2016-06-17 19:17:19.081] [ ERROR ] Option specified in XML does not exist: name="CloudSaveBetaOnly" value="1"
+[2016-06-17 19:17:19.081] [DISPLAY] Initializing downloader...
+[2016-06-17 19:17:19.081] [DISPLAY] Adding patch checks...
+[2016-06-17 19:17:19.081] [DISPLAY] Checking for updates...
+[2016-06-17 19:17:19.082] [ ERROR ] Error opening TM file!
+[2016-06-17 19:17:19.642] [DISPLAY] Download complete!
+[2016-06-17 19:17:19.644] [ ERROR ] Unable to get file version info size for Z:\home\aluno\.cache\.fr-7GJLdT\GTA V Only - SG\GTA5.exe
+[2016-06-17 19:17:19.654] [ ERROR ] Last error: 2 : Arquivo n„o encontrado.
+
+[2016-06-17 19:17:20.292] [DISPLAY] File version 10000:0 (for Z:\home\aluno\.cache\.fr-7GJLdT\GTA V Only - SG\PlayGTAV.exe)
+[2016-06-17 19:17:20.292] [ ERROR ] Error opening TM file!
+[2016-06-17 19:17:20.293] [ ERROR ] Error opening TM file!
+[2016-06-17 19:17:20.740] [DISPLAY] Download complete!
+[2016-06-17 19:17:20.741] [ ERROR ] Unable to get file version info size for Z:\home\aluno\.cache\.fr-7GJLdT\GTA V Only - SG\GTAVLauncher.exe
+[2016-06-17 19:17:20.741] [ ERROR ] Last error: 2 : Arquivo n„o encontrado.
+
+[2016-06-17 19:17:20.741] [DISPLAY] Shutting down downloader...
+[2016-06-17 19:17:20.742] [ ERROR ] Error opening TM file!
+[2016-06-17 19:19:44.032] [DISPLAY] Download complete!
+[2016-06-17 19:19:44.759] [DISPLAY] Download attempt succeeded.
+[2016-06-17 19:19:44.760] [ ERROR ] Error opening TM file!
+[2016-06-17 19:19:44.760] [DISPLAY] Installing update...
+[2016-06-17 19:19:45.260] [DISPLAY] About to launch process: C:\users\aluno\Temp\GTA_V_Launcher_1_0_505_2.exe (with commandline: /S /silent /WaitForProcess GTAVLauncher.exe)
+[2016-06-17 19:19:45.874] [ ERROR ] Error occurred installing C:\users\aluno\Temp\GTA_V_Launcher_1_0_505_2.exe (): Falha de instala√ß√£o. Por favor, saia e tente novamente..
+
+[2016-06-17 19:19:45.884] [ ERROR ] Failed to install patch!
+[2016-06-17 19:19:45.885] [ ERROR ] Error opening TM file!
